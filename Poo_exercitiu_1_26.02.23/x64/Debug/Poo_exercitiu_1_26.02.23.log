@@ -1,0 +1,5 @@
+﻿  Poo_exercitiu_1_26.02.23.cpp
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Poo_exercitiu_1_26.02.23\Poo_exercitiu_1_26.02.23.cpp(31,10): warning C4101: 'prenume': unreferenced local variable
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Poo_exercitiu_1_26.02.23\Poo_exercitiu_1_26.02.23.cpp(30,10): warning C4101: 'nume': unreferenced local variable
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Poo_exercitiu_1_26.02.23.vcxproj -> C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Poo_exercitiu_1_26.02.23\x64\Debug\Poo_exercitiu_1_26.02.23.exe
