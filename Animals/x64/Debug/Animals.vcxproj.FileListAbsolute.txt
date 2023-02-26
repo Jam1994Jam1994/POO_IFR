@@ -1,0 +1,3 @@
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Animals\x64\Debug\Animals.vcxproj.AssemblyReference.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Animals\x64\Debug\Animals.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Animals\x64\Debug\Animals.exe
