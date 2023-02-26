@@ -1,0 +1,3 @@
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\POO_1_2021\x64\Debug\POO_1_2021.vcxproj.AssemblyReference.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\POO_1_2021\x64\Debug\POO_1_2021.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\POO_1_2021\x64\Debug\POO_1_2021.exe
