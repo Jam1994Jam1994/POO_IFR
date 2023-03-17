@@ -1,0 +1,10 @@
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\CppCLR_WinFormsProject3\x64\Debug\CppCLR_WinFormsProject3.vcxproj.AssemblyReference.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\CppCLR_WinFormsProject3\x64\Debug\CppCLR_WinFormsProject3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\CppCLR_WinFormsProject3\x64\Debug\CppCLR_WinFormsProject3.Form1.resources
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\CppCLR_WinFormsProject3\x64\Debug\CppCLR_WinFormsProject3.vcxproj.GenerateResource.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\CppCLR_WinFormsProject3\x64\Debug\CppCLR_WinFormsProject3.exe
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\Calculator CNP\x64\Debug\CppCLR_WinFormsProject3.vcxproj.AssemblyReference.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\Calculator CNP\x64\Debug\CppCLR_WinFormsProject3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\Calculator CNP\x64\Debug\CppCLR_WinFormsProject3.Form1.resources
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\Calculator CNP\x64\Debug\CppCLR_WinFormsProject3.vcxproj.GenerateResource.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\Calculator CNP\x64\Debug\CppCLR_WinFormsProject3.exe

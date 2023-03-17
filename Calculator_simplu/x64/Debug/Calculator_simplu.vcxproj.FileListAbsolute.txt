@@ -1,0 +1,5 @@
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\Calculator_simplu\x64\Debug\Calculator_simplu.vcxproj.AssemblyReference.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\Calculator_simplu\x64\Debug\Calculator_simplu.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\Calculator_simplu\x64\Debug\Calculator_simplu.Form1.resources
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\Calculator_simplu\x64\Debug\Calculator_simplu.vcxproj.GenerateResource.cache
+C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\Calculator_simplu\x64\Debug\Calculator_simplu.exe
