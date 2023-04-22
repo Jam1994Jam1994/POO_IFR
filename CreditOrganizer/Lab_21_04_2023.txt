@@ -1,0 +1,9 @@
+﻿Build started...
+1>------ Build started: Project: CreditOrganizer, Configuration: Debug x64 ------
+1>CreditCardAccount.cpp
+1>CreditOrganizer.cpp
+1>Generating Code...
+1>AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+1>CreditOrganizer.vcxproj -> C:\Users\juncu\Documents\Juncu Andrei Mihai\UNIVERSITATE an I sem II\POO\Proiecte\CreditOrganizer\x64\Debug\CreditOrganizer.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 3:41 PM and took 01,533 seconds ==========
